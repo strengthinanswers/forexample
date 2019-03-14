@@ -1,1 +1,9 @@
-package forexample
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print ("Whassupp!!")
+
+
+}
